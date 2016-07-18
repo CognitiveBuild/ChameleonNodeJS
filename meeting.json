@@ -10,7 +10,7 @@
         "bookBy" : "Vincent",
         "meetingDes" : "",
         "meetingID" : 1,
-		"meetingEmail" : "a@cn.ibm.com"
+		    "meetingEmail" : "a@cn.ibm.com"
       },
       {
         "meetingTitle" : "Meeting with *CIO* Client.",
@@ -19,7 +19,7 @@
         "bookBy" : "Gary",
         "meetingDes" : "",
         "meetingID" : 2,
-		"meetingEmail" : "a@cn.ibm.com"
+		    "meetingEmail" : "a@cn.ibm.com"
       },
       {
         "meetingTitle" : "Meeting with *CTO* Client.",
@@ -28,7 +28,7 @@
         "bookBy" : "Mohamed",
         "meetingDes" : "",
         "meetingID" : 3,
-		"meetingEmail" : "a@cn.ibm.com"
+		    "meetingEmail" : "a@cn.ibm.com"
       }
     ],
     "type" : 1,
@@ -46,7 +46,7 @@
         "bookBy" : "Ivy",
         "meetingDes" : "",
         "meetingID" : 1,
-		"meetingEmail" : "a@cn.ibm.com"
+		    "meetingEmail" : "a@cn.ibm.com"
       },
       {
         "meetingTitle" : "Meeting with *Tecent* Client.",
@@ -55,7 +55,7 @@
         "bookBy" : "Frank",
         "meetingDes" : "",
         "meetingID" : 2,
-		"meetingEmail" : "a@cn.ibm.com"
+		    "meetingEmail" : "a@cn.ibm.com"
       },
       {
         "meetingTitle" : "Meeting with *Baidu* Client.",
@@ -64,11 +64,11 @@
         "bookBy" : "Summer",
         "meetingDes" : "",
         "meetingID" : 3,
-		"meetingEmail" : "a@cn.ibm.com"
+		    "meetingEmail" : "a@cn.ibm.com"
       }
     ],
     "type" : 1,
     "description" : "available at 3pm",
     "meetingroomID" : "12346"
   }
-}  
+}
